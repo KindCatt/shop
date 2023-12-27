@@ -1,6 +1,6 @@
 <template>
 	<div id="app">
-		<div></div>
+		
 		<v-main-wrapper />
 	</div>
 </template>
