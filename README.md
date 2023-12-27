@@ -1,8 +1,21 @@
 # shop
+```
+Тренировочный проект
+```
 
 ## Project setup
 ```
 npm install
+```
+
+### Установка и настройка Json-сервера
+```
+npm install -g json-server
+```
+
+### Запустить Json-сервер и заставить его обслуживать db.json файл в качестве API
+```
+json-server --watch db.json
 ```
 
 ### Compiles and hot-reloads for development
